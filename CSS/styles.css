@@ -1,0 +1,27 @@
+  body {
+    background-color: mintcream;
+  }
+  hr {
+    border-style: dotted none none;
+    border-color: steelblue;
+    border-width: 5px;
+    width: 10%;
+  }
+  h1 {
+    color: steelblue;
+    font-family: 'Impact';
+    font-weight: normal;
+    font-style: normal;
+    font-variant: small-caps;
+  }
+  h3 {
+    color: steelblue;
+    font-family: 'Impact';
+    font-weight: normal;
+    font-style: normal;
+  }
+  img {
+    border-style: outset;
+    border-color: silver;
+    border-radius: 25% 10% ;
+  }
